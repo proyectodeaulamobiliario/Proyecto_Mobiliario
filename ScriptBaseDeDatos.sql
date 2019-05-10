@@ -1,0 +1,1 @@
+SELECT idMobiliario,Nombre FROM Mobiliario;
